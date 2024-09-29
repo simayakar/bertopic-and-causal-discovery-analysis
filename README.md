@@ -11,3 +11,12 @@ BERTopic and Causal Discovery Analysis on Mental Health Dataset: Exploring Facto
     - “Mental Health Dataset” retrieved from Kaggle.
 - **Results**
     - The analysis revealed that Topic_0, focusing on emotions and thoughts, had a significant dual effect on mental health, both increasing and alleviating concerns. Topic 1, related to "Film and Entertainment," showed a notable impact in reducing mental health issues through escapism, but also had a moderate positive effect, indicating a complex relationship. Other topics had minimal effects. These findings highlight the nuanced impact of different topics on mental well-being.
+
+
+Files: <br>
+
+📎 "project.ipynb" -> Data cleaning + performing BERTopic on mental health dataset + Calculation of topic probabilities [threshold.csv] <br>
+📎 "causal.ipynb" -> Conducting causal discovery analysis using topic probabilities <br>
+📎 "mental_health.csv" -> Raw Data <br>
+📎 "threshold_df.csv" -> Topic Probabilities <br>
+📎 "Project_report.docx" -> Project report <br>
