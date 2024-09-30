@@ -1,6 +1,8 @@
 # bertopic-and-causal-discovery-analysis
 BERTopic and Causal Discovery Analysis on Mental Health Dataset: Exploring Factors Affecting Mental Health Issues
 
+![lose the chances (1)](https://github.com/user-attachments/assets/b45aa8f8-15bc-45d0-92c3-3507e09842b5)
+
 ### Project Summary
 
 - **Goal**
